@@ -8,7 +8,7 @@ body{
  font-family: Arial,sans-serif;
 }
 header{
- background-image: url(/huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-desktop.svg);
+ background-image: url(/images/bg-hero-desktop.svg);
  background-position: center;
  background-size: cover;
  display: flex;
@@ -392,7 +392,7 @@ section:hover svg{
    width: 360px;
   }
   header{
-   background-image: url(/huddle-landing-page-with-alternating-feature-blocks-master/images/bg-hero-mobile.svg);
+   background-image: url(/images/bg-hero-mobile.svg);
   }
 }
 
